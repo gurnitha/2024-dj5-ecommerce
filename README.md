@@ -62,3 +62,6 @@ Membuat aplikasi ecommerce menggunakan Django versi 5.0.2
         (dj5ecom) λ python.exe -m pip install --upgrade pip
         ...
         Successfully installed pip-24.0
+
+
+## 2. PROYEK DJANGO
