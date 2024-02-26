@@ -24,3 +24,11 @@ Membuat aplikasi ecommerce menggunakan Django versi 5.0.2
         new file:   venv312502/Scripts/python.exe
         new file:   venv312502/Scripts/pythonw.exe
         new file:   venv312502/pyvenv.cfg
+
+
+#### 3. Mengaktifkan lingkungan virtual atau venv312502
+
+        λ REM: Mengaktifkan venv312502
+        λ venv312502\Scripts\activate.bat
+        C:\Users\ING\Desktop\2024-DEVSPACE\2024-dj5-ecommerce(main -> origin)
+        (dj5ecom) λ
