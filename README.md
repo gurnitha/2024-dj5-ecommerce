@@ -65,3 +65,45 @@ Membuat aplikasi ecommerce menggunakan Django versi 5.0.2
 
 
 ## 2. PROYEK DJANGO
+
+
+#### 1. Memembuat proyek django
+
+        C:\Users\ING\Desktop\2024-DEVSPACE\2024-dj5-ecommerce\root(main -> origin)
+        (dj5ecom) λ django-admin
+
+        ...
+            startapp
+            startproject
+            test
+            testserver
+
+        (dj5ecom) λ django-admin startproject config .
+
+        C:\Users\ING\Desktop\2024-DEVSPACE\2024-dj5-ecommerce\root(main -> origin)
+        (dj5ecom) λ ls
+        config/  manage.py*  README.md
+
+        C:\Users\ING\Desktop\2024-DEVSPACE\2024-dj5-ecommerce\root(main -> origin)
+        (dj5ecom) λ tree /f
+        Folder PATH listing
+        Volume serial number is C0000100 1A60:D2FA
+        C:.
+        │   .gitignore
+        │   manage.py
+        │   README.md
+        │
+        └───config
+                asgi.py
+                settings.py
+                urls.py
+                wsgi.py
+                __init__.py
+
+        modified:   README.md
+        new file:   config/__init__.py
+        new file:   config/asgi.py
+        new file:   config/settings.py
+        new file:   config/urls.py
+        new file:   config/wsgi.py
+        new file:   manage.py
