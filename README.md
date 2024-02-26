@@ -37,3 +37,21 @@ Membuat aplikasi ecommerce menggunakan Django versi 5.0.2
 #### 4. Membuat root direktori dan memindahkan file .gitignore dan README.md ke dalamnya
 
         modified:   README.md
+
+
+#### 5. Menginstal django versi 5.0.2
+
+        C:\Users\ING\Desktop\2024-DEVSPACE\2024-dj5-ecommerce\root(main -> origin)
+        (dj5ecom) λ pip install django==5.0.2
+        ...
+        Successfully installed asgiref-3.7.2 django-5.0.2 sqlparse-0.4.4 tzdata-2024.1
+
+        [notice] A new release of pip is available: 23.2.1 -> 24.0
+        [notice] To update, run: python.exe -m pip install --upgrade pip
+
+        C:\Users\ING\Desktop\2024-DEVSPACE\2024-dj5-ecommerce\root(main -> origin)
+        (dj5ecom) λ pip freeze
+        asgiref==3.7.2
+        Django==5.0.2
+        sqlparse==0.4.4
+        tzdata==2024.1
