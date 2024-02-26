@@ -32,3 +32,8 @@ Membuat aplikasi ecommerce menggunakan Django versi 5.0.2
         λ venv312502\Scripts\activate.bat
         C:\Users\ING\Desktop\2024-DEVSPACE\2024-dj5-ecommerce(main -> origin)
         (dj5ecom) λ
+
+
+#### 4. Membuat root direktori dan memindahkan file .gitignore dan README.md ke dalamnya
+
+        modified:   README.md
