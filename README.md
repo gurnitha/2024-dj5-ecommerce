@@ -130,3 +130,8 @@ Membuat aplikasi ecommerce menggunakan Django versi 5.0.2
         Django version 5.0.2, using settings 'config.settings'
         Starting development server at http://127.0.0.1:8000/
         Quit the server with CTRL-BREAK.
+
+
+#### 3. Melihat tampilan default laman django
+
+        http://127.0.0.1:8000/
