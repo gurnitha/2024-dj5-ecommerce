@@ -55,3 +55,10 @@ Membuat aplikasi ecommerce menggunakan Django versi 5.0.2
         Django==5.0.2
         sqlparse==0.4.4
         tzdata==2024.1
+
+
+#### 6. Meng-upgrade pip
+
+        (dj5ecom) λ python.exe -m pip install --upgrade pip
+        ...
+        Successfully installed pip-24.0
