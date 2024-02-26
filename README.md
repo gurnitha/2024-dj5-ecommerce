@@ -107,3 +107,26 @@ Membuat aplikasi ecommerce menggunakan Django versi 5.0.2
         new file:   config/urls.py
         new file:   config/wsgi.py
         new file:   manage.py
+
+
+#### 2. Menjalankan sever django atau lokal server
+
+        C:\Users\ING\Desktop\2024-DEVSPACE\2024-dj5-ecommerce\root(main -> origin)
+        (dj5ecom) λ python manage.py
+
+        ...
+            runserver
+
+        C:\Users\ING\Desktop\2024-DEVSPACE\2024-dj5-ecommerce\root(main -> origin)
+        (dj5ecom) λ python manage.py runserver
+        Watching for file changes with StatReloader
+        Performing system checks...
+
+        System check identified no issues (0 silenced).
+
+        You have 18 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+        Run 'python manage.py migrate' to apply them.
+        February 26, 2024 - 15:59:12
+        Django version 5.0.2, using settings 'config.settings'
+        Starting development server at http://127.0.0.1:8000/
+        Quit the server with CTRL-BREAK.
